@@ -18,29 +18,6 @@ I'm a versatile **Software Engineer**, **UI/UX & Graphic Designer**, and **Philo
 - **French 90%**
 - **Russian 35%**
 
-## 🏆 GitHub Activity & Rankings
-
-A list of the most active GitHub users
-
-**Most active GitHub users in Congo Kinshasa**
-
-This is a list of most active GitHub users in Congo Kinshasa over the past year.  
-_Last updated: 2025-05-28 03:27:25 +0000_
-
-```json
-{
-  "criteria": [
-    "Sort by followers",
-    "Filter location == 'Congo Kinshasa'",
-    "Take top 1000",
-    "Sort by contributions",
-    "Take top 256"
-  ]
-}
-```
-> Proud to be among the top contributors in Congo Kinshasa!  
-> [See the full list](https://committer.top/country/Congo%20Kinshasa) <!-- Update with actual list link if you have one -->
-
 ## 🎵 Hobbies & Interests
 - Reading
 - Playing piano & guitar
