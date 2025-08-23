@@ -10,19 +10,6 @@ I'm a versatile **Software Engineer**, **UI/UX & Graphic Designer**, and **Philo
 - **UI/UX Design**
 - **Graphic Design** (Adobe Suite)
 
-## 🚀 Languages Mastery
-- **Kiswahili 100%**
-- **English 80%**
-- **French 90%**
-- **Russian 35%**
-
-## 🎵 Hobbies & Interests
-- Reading
-- Playing piano & guitar
-- Watching films
-- Drawing
-- Football
-
 With a unique blend of technical proficiency and creative vision, I bring ideas to life through code and design.
 
 ---
