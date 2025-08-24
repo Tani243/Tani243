@@ -1,4 +1,4 @@
-# Hi, I'm Tani David 👋
+# Hi, I'm Tani 👋
 
 [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/Tani243.svg)](https://user-badge.committers.top/congo_kinshasa/Tani243)
 
