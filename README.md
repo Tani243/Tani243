@@ -6,12 +6,4 @@ I'm a multidisciplinary **AI Software Engineer**, **UI/UX & Graphic Designer**, 
 
 *Combining technical depth with creative insight, I transform ideas into impactful products — where thoughtful design meets robust engineering.*
 
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Tani243&show_icons=true&theme=radical&count_private=true&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=Tani243&layout=compact&theme=radical&hide_border=true
-
 [![committers.top badge](https://streak-stats.demolab.com/?user=Tani243&theme=radical&hide_border=true)
-
-https://github-profile-trophy.vercel.app/?username=Tani243&theme=radical&column=7&margin-w=10&margin-h=10
-
-</div>
